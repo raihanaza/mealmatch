@@ -1,5 +1,5 @@
 # MealMatch: Personalized Meal Planning App
-A mobile app prototype designed to streamline meal planning with personalized fitness meal plans, pantry management, and shopping list generation.
+A web app prototype designed to streamline meal planning with personalized fitness meal plans, pantry management, and shopping list generation.
 
 ## Collaborators
 - Raihana Zahra
